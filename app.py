@@ -19,7 +19,7 @@ from reranker import rerank_borderline
 load_dotenv()
 
 st.set_page_config(
-    page_title="Jobee — AI Job & Internship Radar",
+    page_title="Jobee: AI Job & Internship Radar",
     page_icon="🛰️",
     layout="wide",
     initial_sidebar_state="collapsed",
